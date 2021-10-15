@@ -1,0 +1,104 @@
+{
+  "employees": [
+    {
+      "id": "fa0cbc75-38d0-4bd2-9528-78456b0194ce",
+      "firstName": "Vi Van",
+      "lastName": "Ninh",
+      "gender": "Male",
+      "email": "ninhvv@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "ff1a713d-8956-4cbe-b1ec-9e5696d67884",
+      "firstName": "Pham Duc",
+      "lastName": "Dat",
+      "gender": "Male",
+      "email": "datpd@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "152b004b-0aad-4fdd-8d4d-0a37bf8227a3",
+      "firstName": "Nguyen Viet",
+      "lastName": "Long",
+      "gender": "Female",
+      "email": "longnv@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "8cd037f7-490f-46b5-ba47-98fe48c5a1ac",
+      "firstName": "Truong Tuan",
+      "lastName": "Nghia",
+      "gender": "Female",
+      "email": "nghiatt@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "3a82b493-c0d5-41ca-a637-572036052d72",
+      "firstName": "Doan Xuan",
+      "lastName": "Phi",
+      "gender": "Male",
+      "email": "phidx@dogoo.com",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "3a1c0840-8f29-4cda-8049-c96f6f974e29",
+      "firstName": "Do Tuan",
+      "lastName": "Dat",
+      "gender": "Male",
+      "email": "dathymax@gmail.com",
+      "address": "Ha Noi",
+      "phone": "0984193954",
+      "role": "dev"
+    },
+    {
+      "id": "dcb98e61-6df7-4281-842c-5eb4dab5893f",
+      "firstName": "Do",
+      "lastName": "Dat",
+      "gender": "Male",
+      "email": "dathymax@gmail.com",
+      "address": "Ha Noi",
+      "phone": "0984193954",
+      "role": "dev"
+    },
+    {
+      "id": "eb177e97-f87b-42d0-98e1-8f9aace7ff98",
+      "firstName": "Do Van",
+      "lastName": "A",
+      "gender": "Male",
+      "email": "dathymax@gmail.com",
+      "address": "Ha Noi",
+      "phone": "0984193954",
+      "role": "dev"
+    },
+    {
+      "id": "2a29079a-42b5-4c9d-aaca-9b209db5cf54",
+      "firstName": "Do Van",
+      "lastName": "B",
+      "gender": "Male",
+      "email": "dathymax@gmail.com",
+      "address": "Ha Noi",
+      "phone": "0984193954",
+      "role": "dev"
+    },
+    {
+      "id": "ebae9489-5a0b-4c67-9522-b16ab70febfb",
+      "firstName": "Do Van",
+      "lastName": "C",
+      "gender": "Male",
+      "email": "dathymax@gmail.com",
+      "address": "Ha Noi",
+      "phone": "0984193954",
+      "role": "dev"
+    }
+  ]
+}
